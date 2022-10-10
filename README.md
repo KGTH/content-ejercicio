@@ -38,7 +38,7 @@ Will try to clean and fix any possible issues on the lessons, for example: Date 
 | --statusTo    | change the status of one or all the lessons to a particular one |
 | --statusFrom  | only apply changes to lessons with specified status |
 
-### Method: download_images
+### Method: download_images 1
 
 | PARAM         | DESCRIPTION |
 | ---------     | ----------- |
@@ -47,7 +47,8 @@ Will try to clean and fix any possible issues on the lessons, for example: Date 
 
 ### Method: localize_images
 
-Rename the remote image url's with local images (if available), this method is ideal to run after `download_images`
+
+### Method: download_images download_images` 2
 
 | PARAM         | DESCRIPTION |
 | ---------     | ----------- |
